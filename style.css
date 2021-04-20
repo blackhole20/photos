@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: darkred;
+}
+h1{
+    font-family: 'Zen Dots', cursive;
+    font-size: 50px;
+}
+#myCarousel{
+    background-color: firebrick;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: antiquewhite;
+    font-size: 20px;
+}
+img{
+    height: 500px;
+    width: 500px;
+}
+h2{
+    font-family: 'Zen Dots', cursive;
+}
